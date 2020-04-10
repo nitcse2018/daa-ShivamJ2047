@@ -1,4 +1,4 @@
-# Python program for implementation of MergeSort(Divide and Conquer
+# Python program for implementation of MergeSort(Divide and Conquer)
 def mergeSort(arr):
     if len(arr) > 1:
         mid = len(arr) // 2
